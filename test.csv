@@ -1,4 +1,10 @@
-Name,age
-Barry French,30
-Clay Rozendal,31
-Carlos Soltero,30
+Name,age,Experience,Salary
+Barry French,30,10,30000
+Clay Rozendal,31,8,25000
+Carlos Soltero,30,4,20000
+Paul,24,3,20000
+Harsha,21,1,15000
+Shubham,23,2,18000
+Mahesh,null,null,40000
+null,34,10,38000
+null,36,null,null
